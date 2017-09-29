@@ -1,0 +1,1 @@
+This directory has all the natural langugae processing assignments and projects I have been working on.

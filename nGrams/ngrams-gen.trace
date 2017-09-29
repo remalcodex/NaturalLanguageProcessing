@@ -1,0 +1,45 @@
+Script started on Fri Sep 15 22:44:02 2017
+[?1034hbash-3.2$ python3 ngrams.py train.txt -gen seeds.txt
+Seed =  She 
+
+Sentence  1 :  She did not be the leaves , and lo , '' 
+Sentence  2 :  She was just a good days . 
+Sentence  3 :  She loved her suspicions were especially a very careful , and 
+Sentence  4 :  She nodded , and he is to deceive the wizards , 
+Sentence  5 :  She sat in summer days , sir . 
+Sentence  6 :  She spoke of his feet , his good enough money . 
+Sentence  7 :  She dreamed the garden , but not have petted teddy looked 
+Sentence  8 :  She got so prettily -- of sorrow at the osbornes had 
+Sentence  9 :  She was too much as great deal . 
+Sentence  10 :  She took away and the trees , and one day the 
+
+Seed =  I 
+
+Sentence  1 :  I dare to put out of my dearest delights to prevent 
+Sentence  2 :  I shall be empty bowl , and at the wind almost 
+Sentence  3 :  I have to the elephant 's in his black-velvet coat is 
+Sentence  4 :  I have gone a wild elephant and full height . 
+Sentence  5 :  I do you shall be safe not dare to bark , 
+Sentence  6 :  I 've got tired of our deserting ? 
+Sentence  7 :  I must make him , fifty . 
+Sentence  8 :  I want to be crowded with it , old-fashioned script , 
+Sentence  9 :  I am an hour of the other left the depths of 
+Sentence  10 :  I took great farmhouse , however , and live with a 
+
+Seed =  Old 
+
+Sentence  1 :  Old mr. toad 's the youth , which . 
+Sentence  2 :  Old fairy was a man , with her , ` your 
+Sentence  3 :  Old woman when the leaves . 
+Sentence  4 :  Old dutcher , who offered rich silk and can open place 
+Sentence  5 :  Old mr. toad . 
+Sentence  6 :  Old man made up on three words . 
+Sentence  7 :  Old stephen caught her forever from that , and rikki braced 
+Sentence  8 :  Old woman that day . 
+Sentence  9 :  Old hunter , is marguerite forrester -- or took off from 
+Sentence  10 :  Old books rather glad there was still ? 
+
+bash-3.2$ exit
+exit
+
+Script done on Fri Sep 15 22:44:50 2017
